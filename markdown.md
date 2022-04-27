@@ -33,3 +33,5 @@ It was created by:
 </ul>
 </head>
 </html>`
+
+[Check out the README](docs/README.md)
