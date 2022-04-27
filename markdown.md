@@ -21,7 +21,7 @@ It was created by:
 ![This is an alttext](https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080)
 
 ### Some Links
-`<html>
+```<html>
 <head>
 <h6>No need to google</h6>
 </br>
@@ -32,6 +32,6 @@ It was created by:
 <li> <a href="https://markdownlivepreview.com/>Markdown Live Preview</a></li>
 </ul>
 </head>
-</html>`
+</html>```
 
-[Check out the README](docs/README.md)
+[Check out the README](README.md)
