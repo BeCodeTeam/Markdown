@@ -1,3 +1,5 @@
+[What's Markdown?](markdown.md)
+
 # Markdown Excercise
 
 **This Repo is to learn how to create a Github README file using markdown**
@@ -9,4 +11,3 @@
 - Andres john
 - Andres john
 
-[What's Markdown?](docs/markdown.md)
