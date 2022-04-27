@@ -1,3 +1,5 @@
+[Check out the README](README.md)
+
 # So What is a Markdown?
 ![D4Nc3](https://media.giphy.com/media/HU2H0A0sLnbiLgY6zX/giphy.gif)
 
@@ -27,11 +29,8 @@ It was created by:
 </br>
 <ul>
 <li> <a href="https://www.markdownguide.org/cheat-sheet/>Markdown CheatSheet</a></li>
-<li> <a href="https://www.markdownguide.org/cheat-sheet/>Markdown CheatSheet</a></li>
-<li> <a href="https://markdownlivepreview.com/>Markdown Live Preview</a></li>
 <li> <a href="https://markdownlivepreview.com/>Markdown Live Preview</a></li>
 </ul>
 </head>
 </html>```
 
-[Check out the README](README.md)
