@@ -4,7 +4,9 @@
 
 ## Group Members for this excercise:
 \
--Andres john\
--Andres john\
--Andres john\
--Andres john\
+- Andres john\
+- Andres john\
+- Andres john\
+- Andres john\
+
+[What's Markdown?](docs/markdown.md)
